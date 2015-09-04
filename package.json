@@ -1,0 +1,19 @@
+{
+  "name": "js-clock",
+  "version": "0.1.0",
+  "description": "Human-readable timer",
+  "main": "clock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darlanalves/jsclock"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darlanalves/jsclock/issues"
+  },
+  "homepage": "https://github.com/darlanalves/jsclock"
+}

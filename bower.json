@@ -1,0 +1,14 @@
+{
+  "name": "jsclock",
+  "version": "0.1.0",
+  "authors": [
+    "Darlan Alves <me@darlanalv.es>"
+  ],
+  "description": "Human-readable timer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darlanalves/jsclock"
+  },
+  "main": "clock.js",
+  "license": "MIT"
+}
